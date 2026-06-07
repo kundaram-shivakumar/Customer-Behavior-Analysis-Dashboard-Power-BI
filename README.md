@@ -1,0 +1,1 @@
+Developed an interactive Customer Behavior Analysis Dashboard in Power BI to analyze customer demographics, purchasing patterns, subscription trends, and revenue performance. Created dynamic visualizations and KPIs to deliver actionable insights on customer preferences, spending behavior, and sales across categories and age groups.
