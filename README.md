@@ -1,4 +1,4 @@
-Customer Behavior Analysis Dashboard
+**Customer Behavior Analysis Dashboard**
 <img width="1335" height="752" alt="image" src="https://github.com/user-attachments/assets/6e901046-3a0f-4e32-8029-a182f5e544d9" />
 📌 Project Overview
 
